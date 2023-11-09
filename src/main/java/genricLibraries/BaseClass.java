@@ -2,6 +2,7 @@ package genricLibraries;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeClass;
+//this is base class
 
 public class BaseClass {
 //@BeforeSuite
